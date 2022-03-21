@@ -13,6 +13,5 @@ spec:
     - ./domains/tap-gui-domain.yaml
     - https://github.com/sample-accelerators/tanzu-java-web-app/blob/main/catalog/catalog-info.yaml
     - https://github.com/vdesikanvmware/spring-petclinic/blob/main/catalog-info.yaml
-    - https://github.com/vdesikanvmware/spring-petclinic-original/blob/main/catalog-info.yaml
-    - https://github.com/shwethaks1/TAP_catalog/blob/main/blank%203/catalog-info.yaml 
+    - https://github.com/vdesikanvmware/spring-petclinic-original/blob/main/catalog-info.yaml 
     - https://github.com/shwethaks1/tanzu-java-web-app/blob/main/catalog/catalog-info.yaml
